@@ -167,6 +167,13 @@ pip install -r requirements.txt
 
 * Open `.pbix` file in Power BI Desktop
 
+
+## 📂 Large Files
+
+Due to GitHub size limitations, dataset and dashboard are uploaded as compressed files.
+
+Please download and extract to access:
+- Dataset (.csv)
 ---
 
 ## 📂 Project Structure
